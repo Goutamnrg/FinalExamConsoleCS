@@ -1,0 +1,6 @@
+C:\Users\Programming3\source\repos\GoutamExamFinal\GoutamExamFinal\GoutamExamFinal\obj\Debug\GoutamExamFinal.csprojAssemblyReference.cache
+C:\Users\Programming3\source\repos\GoutamExamFinal\GoutamExamFinal\GoutamExamFinal\bin\Debug\GoutamExamFinal.exe.config
+C:\Users\Programming3\source\repos\GoutamExamFinal\GoutamExamFinal\GoutamExamFinal\bin\Debug\GoutamExamFinal.exe
+C:\Users\Programming3\source\repos\GoutamExamFinal\GoutamExamFinal\GoutamExamFinal\bin\Debug\GoutamExamFinal.pdb
+C:\Users\Programming3\source\repos\GoutamExamFinal\GoutamExamFinal\GoutamExamFinal\obj\Debug\GoutamExamFinal.exe
+C:\Users\Programming3\source\repos\GoutamExamFinal\GoutamExamFinal\GoutamExamFinal\obj\Debug\GoutamExamFinal.pdb
